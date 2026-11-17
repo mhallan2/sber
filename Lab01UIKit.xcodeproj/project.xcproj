@@ -28,6 +28,7 @@
     },
     { "kind": "folder", "path": "Lab01UIKitTests", "target-membership": [ "Lab01UIKitTests" ] },
     { "kind": "folder", "path": "Lab01UIKitUITests", "target-membership": [ "Lab01UIKitUITests" ] },
+    { "path": "лаба.jpg", "target-membership": [ "Lab01UIKit/resources" ] },
     {
       "kind": "group",
       "name": "Products",
